@@ -1,9 +1,9 @@
 Tic-Tac-Toe Game with AWS Elastic Beanstalk and Fargate
 
 
-Name: 
-Group:
-Date: ?-06-2024
+Name: Aziz Furkan YILMAZ
+Group:3
+Date: 
 
 Architecture
 
